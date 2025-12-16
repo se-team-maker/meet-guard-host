@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='dagfjgphpjkkbeknohcaalocomdecjpk'>
-    <updatecheck 
-      codebase='https://raw.githubusercontent.com/se-team-maker/meet-guard-host/main/MeetRecordingGuard-kyotoijuku.crx' 
-      version='1.0.0' />
-  </app>
-</gupdate>
